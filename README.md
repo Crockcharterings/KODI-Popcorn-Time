@@ -2,6 +2,8 @@
 
 [markop159](https://github.com/markop159) repository [markop159/KODI-Popcorn-Time](https://github.com/markop159/KODI-Popcorn-Time) - [Download page](https://github.com/markop159/KODI-Popcorn-Time/wiki/Download)
 
+<hr>
+
 ##I'm looking for someone who can take over the project. :(##
 
 I'm sorry, but I do not have time to the project.
