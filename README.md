@@ -4,7 +4,7 @@
 
 <hr>
 
-##I'm looking for someone who can take over the project. :(##
+##There will be no more updates##
 
 I'm sorry, but I do not have time to the project.
 
