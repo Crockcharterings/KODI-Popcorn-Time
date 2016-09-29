@@ -1,10 +1,12 @@
-#I'm looking for someone who can take over the project, otherwise the project will be closed in two months. :(#
+#Where can I find a newer version?#
 
-I'm sorry, but I do not have time to project.
+[markop159](https://github.com/markop159) repository [markop159/KODI-Popcorn-Time](https://github.com/markop159/KODI-Popcorn-Time) - [Download page](https://github.com/markop159/KODI-Popcorn-Time/wiki/Download)
 
-<hr><hr><hr>
+##I'm looking for someone who can take over the project. :(##
 
+I'm sorry, but I do not have time to the project.
 
+<hr>
 
 [![Code Climate](https://codeclimate.com/github/Diblo/KODI-Popcorn-Time/badges/gpa.svg)](https://codeclimate.com/github/Diblo/KODI-Popcorn-Time)
 # KODI Popcorn Time #
