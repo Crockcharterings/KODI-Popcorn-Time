@@ -1,7 +1,7 @@
 #Where can I find a newer version?#
 
-* [Markop159](https://github.com/markop159) - [Sources](https://github.com/markop159/KODI-Popcorn-Time) - [download page](https://github.com/markop159/KODI-Popcorn-Time/wiki/Download) or [Markop159-repository](https://github.com/markop159/Markop159-repository/tree/master/Releases/plugin.video.kodipopcorntime)
-* [Chaen](https://github.com/chaen) - [Sources](https://github.com/chaen/KODI-Popcorn-Time/) - [download page](https://github.com/chaen/KODI-Popcorn-Time/releases)
+* [Markop159](https://github.com/markop159) - [Download page](https://github.com/markop159/KODI-Popcorn-Time/wiki/Download) or [Markop159-repository](https://github.com/markop159/Markop159-repository/tree/master/Releases/plugin.video.kodipopcorntime) - [Sources](https://github.com/markop159/KODI-Popcorn-Time)
+* [Chaen](https://github.com/chaen) - [Download page](https://github.com/chaen/KODI-Popcorn-Time/releases) - [Sources](https://github.com/chaen/KODI-Popcorn-Time/)
 
 <hr>
 
